@@ -1,0 +1,2 @@
+# lightfoldDB:
+Document based database
