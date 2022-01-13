@@ -1,0 +1,10 @@
+{
+	"Name": "K8s",
+	"Age": 14,
+	"Contact": "41432343",
+	"Company": "k8s",
+	"Address": {
+		"City": "not appropriate",
+		"Pincode": 56
+	}
+}

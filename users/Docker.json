@@ -1,0 +1,10 @@
+{
+	"Name": "Docker",
+	"Age": 15,
+	"Contact": "89982343",
+	"Company": "docker",
+	"Address": {
+		"City": "not appropriate",
+		"Pincode": 78
+	}
+}

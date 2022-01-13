@@ -1,0 +1,10 @@
+{
+	"Name": "GoLang",
+	"Age": 13,
+	"Contact": "12232343",
+	"Company": "golang",
+	"Address": {
+		"City": "not appropriate",
+		"Pincode": 34
+	}
+}
